@@ -1,0 +1,15 @@
+[
+{
+  "modid": "bookfixer",
+  "name": "GuideApiBookFixer",
+  "description": "Replaces 2.1.6 GuiBase with 2.1.5 GuiBase",
+  "version": "2.1.6",
+  "mcversion": "1.12",
+  "updateUrl": "",
+  "authorList": [ "Qwyll" ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependants": ["guideapi"]
+}
+]
